@@ -46,6 +46,4 @@ src/
 
 ## Author
 - Name: Prashant Pathania
-- GitHub: https://github.com/yourusername
-- Email: prashantpathania0@gmail.com
 
